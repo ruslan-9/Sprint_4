@@ -1,0 +1,10 @@
+# qa_python
+test_add_new_book_without_genre - проверка отсутствия жанра у добавленной книги 
+test_set_book_genre - проверяем, что жанр книги устанавливается
+test_get_book_genre_return_correct_genre - вывод жанра книги по имени книги
+test_get_books_with_specific_genre_two_books - список книг с определенным жанром
+test_get_book_genre_return_correct - вывод текущего словаря
+test_get_books_for_children_without_rating - книги, подходящие детям
+test_add_book_in_favorites - добавление книги в избранное
+test_delete_book_from_favorites_success - удаление книги из избранного
+test_get_list_of_favorites_books_not_empty - получение списка избранных книг
